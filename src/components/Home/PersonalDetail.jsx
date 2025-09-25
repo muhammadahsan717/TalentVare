@@ -26,7 +26,7 @@ const PersonalDetail = () => {
           </div>
 
           {/* User Information */}
-          <div className="text-center px-[22%] pb-5 space-y-[5px]">
+          <div className="text-center px-[16%] 2xl:px-[22%] pb-5 space-y-[5px]">
             <p className="text-[18px] font-medium text-dark-grey mb-0 fontSixtyFive">Albert Flores</p>
             <p className="text-[14px] font-normal text-dark-grey mb-0">
               Senior Product Designer | UI/UX Designer | Graphic Designer | Web...
