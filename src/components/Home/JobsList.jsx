@@ -11,7 +11,7 @@ const JobsList = ({ title, link, arrray }) => {
     <Fragment>
       <div className="space-y-4">
         {/* Section Header */}
-        <div className="flex items-center justify-between">
+        <div className="flex items-center gap-4">
           <span className="text-dark-grey text-lg font-medium leading-[100%]">{title}</span>
           <Link
             to={`/${link}`}
